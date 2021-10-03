@@ -1,0 +1,15 @@
+https://httpstatuses.com/
+https://jestjs.io/
+https://mongoosejs.com/docs/documents.html
+https://account.mongodb.com/account/login?n=%2Fv2%2F61311b17107aaf61775f9e55%23clusters
+https://docs.mongodb.com/drivers/node/current/usage-examples/deleteOne/
+https://mongodb.github.io/node-mongodb-native/4.0/modules.html
+https://expressjs.com/  https://www.npmjs.com/package/express
+
+
+Using dotenv with jest
+
+https://lusbuab.medium.com/using-dotenv-with-jest-7e735b34e55f
+https://medium.com/swlh/how-to-setup-dotenv-globally-with-jest-testing-in-depth-explanation-323fad824485
+https://stackoverflow.com/a/55057545/14409491
+

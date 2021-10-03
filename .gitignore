@@ -1,3 +1,5 @@
 node_modules/
 playground/
 .env
+.env.test
+Task Manager App.postman_collection.json
